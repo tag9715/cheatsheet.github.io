@@ -1,0 +1,31 @@
+
+h1 {
+  text-align: center;
+  font-family: Sans-serif;
+}
+h2 {
+ color: RebeccaPurple;
+  text-align: center;
+  font-family: Sans-serif;
+}
+
+thead {
+  text-align: center;
+  background-color: Plum;
+}
+
+table {
+  background-color: Gainsboro;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: Sans-serif;
+}
+
+#firstcol {
+  font-family: monospace;
+}
+
+tr {
+  border-style: solid;
+  border-color: RebeccaPurple;
+}
